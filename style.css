@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(247, 247, 247);
+    font-family: Roboto Slab;
+}
+li{
+    list-style: none;
+}
+.nav a{
+    
+    
+    float: left;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 16;
+    align-items: center;
+    text-decoration: none;
+}
+.nav img{
+    width: 72px;
+    height: auto;
+}
+.nav{
+    background-color: #3c0047;
+    width: 100%;
+    overflow: hidden;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.nav a:hover{
+    background-color: #6e0081;
+    
+
+}
+.hedd1{
+    font-weight: 600;
+    text-align: center;
+}
