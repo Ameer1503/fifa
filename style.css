@@ -179,3 +179,12 @@ li{
 .h22{
     font-family: Arial;
 }
+footer{
+    background-color: #3c0047;
+    width: 100%;
+    overflow: hidden;
+    justify-content: center;
+    color: #fadfff;
+    text-align: center;
+
+}
