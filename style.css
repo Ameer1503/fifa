@@ -165,7 +165,7 @@ li{
 }
 .argent img{
 
-    width: 600px;
+    max-width: 600px;
     height: auto;
     border-radius: 0px 25px;
 
